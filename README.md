@@ -9,19 +9,6 @@ A lightweight and efficient Task Management tool for your terminal. Built with P
 * **Automated Timestamps:** Tracks exactly when a task was `Created` and last `Updated`.
 * **Intuitive Interface:** Structured sub-commands with built-in validation.
 
-## 🚀 Installation
-
-1.  **Clone the repository** (or download the script):
-    ```bash
-    git clone [https://github.com/yourusername/task-tracker.git](https://github.com/yourusername/task-tracker.git)
-    cd task-tracker
-    ```
-
-2.  **Ensure you have Python 3.6+ installed**:
-    ```bash
-    python --version
-    ```
-
 ## 🛠 Usage
 
 The script is invoked via the terminal using specific commands.
